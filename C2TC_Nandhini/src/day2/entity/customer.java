@@ -5,8 +5,7 @@ public class customer {
 		private int cid;
 		private String cname;
 		private String city;
-		
-		
+	
 		public customer(){
 			this.cid=101;
 			this.cname="Nandhini";
